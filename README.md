@@ -6,8 +6,6 @@ free.ubisoft.com
 ```
 [戳我前往育碧家](free.ubisoft.com)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GamePlusOne/GamePlusOne.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### 关于
+该网站仅仅做信息收集的事情，并无盈利的目的，如果想支持我，就把我分享了吧
