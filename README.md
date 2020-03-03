@@ -6,10 +6,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 free.ubisoft.com
-[Link](url)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[戳我前往育碧家](free.ubisoft.com)
 
 ### Jekyll Themes
 
