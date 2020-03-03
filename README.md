@@ -1,9 +1,6 @@
 ## 欢迎喜加一
 
 ### 育碧家
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 free.ubisoft.com
 ```
