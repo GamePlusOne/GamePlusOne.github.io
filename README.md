@@ -4,7 +4,7 @@
 ```markdown
 free.ubisoft.com
 ```
-[戳我前往育碧家](free.ubisoft.com)
+[戳我前往育碧家](https://free.ubisoft.com)
 
 
 ### 关于
